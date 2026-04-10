@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/feedback-form")
-@CrossOrigin(origins = "*")
 public class FeedbackFormController {
 
     @Autowired
