@@ -1,6 +1,4 @@
-backend deployment link: https://fullstacksdp33backend-production.up.railway.app/
-
-🚀 Student Feedback Management System – Backend
+Student Feedback Management System – Backend
 
 🌐 Deployment Links
 
